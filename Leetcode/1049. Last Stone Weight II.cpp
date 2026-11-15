@@ -42,7 +42,7 @@ public:
   }
 };
 
-// Approach 1: Space Optimisation
+// Approach 2: Space Optimisation
 // Time = O(n*sum), Space = O(sum)
 class Solution
 {
